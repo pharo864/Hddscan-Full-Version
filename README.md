@@ -260,4 +260,4 @@ This repository serves as the official landing page for HDDScan. The software is
 **Get the most recent version of HDDScan today!**
 
 ---
-**Last updated:** 2026-09-17 17:59:26 UTC
+**Last updated:** 2026-09-17 21:16:21 UTC
